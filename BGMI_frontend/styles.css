@@ -11,7 +11,7 @@
 }
 body {
   overflow-x: hidden;
-  background-image: url(../BGMI_frontend/assets/2.jpg);
+  background-image: url(BGMI_frontend/assets/2.jpg);
   height: auto;
   background-position: center;
   /* background-blend-mode: darken; */
